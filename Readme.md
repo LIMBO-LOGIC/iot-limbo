@@ -82,6 +82,7 @@ Este projeto da **Limbo Logic** é uma demonstração do potencial da **edge com
 ### Simulação dos Pontos de Pista
 ![Simulação Ponto de Pista](./pista.png)
 
+## Arquitetura do nosso sistema
 
 ## 💻 Desenvolvedores
 | Desenvolvedor | Avatar | RM |
