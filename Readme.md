@@ -2,7 +2,7 @@
 
 ## 🌟 Sobre o Projeto
 
-Este projeto, desenvolvido pela **Limbo Logic**, tem como objetivo promover a **Fórmula E** através de um **sistema interativo de monitoramento de condições ambientais**, utilizando **edge computing** com o auxílio do esp32. O sistema monitora em tempo real os parâmetros de **luminosidade**, **temperatura** e **umidade** tanto nas pistas quanto nos carros de corrida, e exibe as informações em um site dedicado, proporcionando uma experiência imersiva para os usuários. 🌍💡
+Este projeto, desenvolvido pela **Limbo Logic**, tem como objetivo promover a **Fórmula E** através de um **sistema interativo de monitoramento de condições ambientais**, utilizando **edge computing** com o auxílio do ESP32. O sistema monitora em tempo real os parâmetros de **luminosidade**, **temperatura** e **umidade** tanto nas pistas quanto nos carros de corrida, e exibe as informações em um site dedicado, proporcionando uma experiência imersiva para os usuários. 🌍💡
 
 ### 🖥️ Edge Computing na Fórmula E
 Utilizando sensores espalhados tanto pelas **pistas** quanto nos **carros de corrida**, o projeto captura dados em tempo real e os envia para um **front-end dinâmico via protocolo MQTT**. Esses dados incluem informações sobre as condições ambientais da pista, assim como detalhes específicos de cada carro, como **velocidade**. O foco do projeto é entregar uma solução rápida e eficiente, processando os dados na borda da rede para garantir uma resposta quase imediata às mudanças no ambiente. ⚡📶
