@@ -11,9 +11,7 @@ Utilizando sensores espalhados tanto pelas **pistas** quanto nos **carros de cor
 
 ### 🏎️ Monitoramento de Pistas:
 - **Luminosidade, temperatura e umidade** monitorados em pontos estratégicos da pista 📊
-- Exibição das informações em um **display LCD** 🖥️
-- **Indicação visual** com LEDs (verde, amarela e vermelha) conforme as condições ambientais 🚦
-- Emissão de **sinal sonoro** (buzzer) em condições críticas 🚨🔊
+- Visualização dos dados ambientais do ponto no site com dashboard e indicadores em tempo real 📈
 
 ### 🚗 Simulação de Carros de Fórmula E:
 - **Monitoramento de luminosidade, temperatura, umidade e velocidade** para cada carro 🏎️
