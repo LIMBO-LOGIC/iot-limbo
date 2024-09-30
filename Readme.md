@@ -73,6 +73,15 @@ Este projeto conta com simulações tanto para os **pontos de monitoramento na p
 Este projeto da **Limbo Logic** é uma demonstração do potencial da **edge computing** aplicada ao esporte de alta performance como a **Fórmula E**. Ao conectar sensores diretamente aos carros e pistas, e exibir os dados em tempo real para os fãs através de um site interativo, entregamos uma experiência tecnológica única e imersiva. 🌟⚡🏁
 
 ---
+## Simulações do Wokwi
+
+### Simulação dos Carros
+![Simulação Carro](./car.png)
+
+
+### Simulação dos Pontos de Pista
+![Simulação Ponto de Pista](./pista.png)
+
 
 ## 💻 Desenvolvedores
 | Desenvolvedor | Avatar | RM |
