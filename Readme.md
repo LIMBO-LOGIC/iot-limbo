@@ -83,7 +83,7 @@ Este projeto da **Limbo Logic** é uma demonstração do potencial da **edge com
 ![Simulação Ponto de Pista](./pista.png)
 
 ## Arquitetura do nosso sistema
-![Arquitetura](./FiwareDeploy_new_v4.drawio.png)
+![Arquitetura](./FiwareDeploy_new_v4.drawio.jpg)
 
 ## 💻 Desenvolvedores
 | Desenvolvedor | Avatar | RM |
