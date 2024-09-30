@@ -25,14 +25,8 @@ Utilizando sensores espalhados tanto pelas **pistas** quanto nos **carros de cor
 
 ## 🛠️ Componentes Utilizados
 
-- LEDs (Verde, Amarelo, Vermelho) 💡
-- Módulo de som Buzzer 🔊
 - Placa de ensaio (Breadboard) 🛠️
-- Arduino UNO R3 🔌
-- Cabos jumpers 🔗
-- Potenciômetro 🎚️
-- Resistores ⚡
-- Display LCD 🖥️
+- ESP32 🔌
 - DHT22 (Sensor de Umidade e Temperatura) 🌡️
 - Fotoresistor LDR (Sensor de Luz) 💡
 - Sensores de Velocidade 🚗💨
