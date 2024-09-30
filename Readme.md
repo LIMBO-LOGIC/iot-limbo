@@ -19,7 +19,7 @@ Utilizando sensores espalhados tanto pelas **pistas** quanto nos **carros de cor
 - **Monitoramento de luminosidade, temperatura, umidade e velocidade** para cada carro 🏎️
 - Três simulações independentes, uma para cada carro, permitindo o acompanhamento detalhado de cada um 🧑‍💻
 - **Conexão com o front-end via MQTT**, possibilitando que o usuário acompanhe em tempo real no site da Fórmula E 🌐
-- Visualização dos dados ambientais de cada carro no site com gráficos e indicadores em tempo real 📈
+- Visualização dos dados ambientais de cada carro no site com dashboard e indicadores em tempo real 📈
 
 ---
 
