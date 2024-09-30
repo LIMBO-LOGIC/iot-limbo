@@ -64,7 +64,7 @@ Este projeto conta com simulações tanto para os **pontos de monitoramento na p
 ## 🚀 Como Funciona o Sistema
 
 1. **Monitoramento em Tempo Real**: Os sensores de **luminosidade**, **temperatura**, **umidade** e **velocidade** coletam dados em tempo real, tanto dos carros quanto das pistas. 📡⚡
-2. **Processamento via Edge Computing**: Os dados capturados são processados diretamente no local (no próprio Arduino), garantindo respostas imediatas, como a ativação das luzes e da buzina. 💻💡
+2. **Processamento via Edge Computing**: Os dados capturados são processados diretamente no local (no próprio ESP32), garantindo respostas imediatas, como a ativação das luzes e da buzina. 💻💡
 3. **Transmissão via MQTT**: As informações são enviadas para o site através do protocolo MQTT, onde são exibidas de forma interativa e visualmente rica. 📊🌐
 4. **Interface Interativa no Site**: No site, os usuários podem acompanhar o desempenho de cada carro, visualizar os dados ambientais e monitorar a segurança das pistas em tempo real. 🏎️📈
 
